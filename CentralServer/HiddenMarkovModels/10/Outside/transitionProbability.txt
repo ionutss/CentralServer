@@ -1,0 +1,4 @@
+#//Going_for_a_walk to Going_for_a_walk, Going_for_a_walk to Going_to_marketplace
+#//Going_to_marketplace to Going_for_a_walk, Going_to_marketplace to Going_to_marketplace
+0.2 0.9
+0.01 0.99

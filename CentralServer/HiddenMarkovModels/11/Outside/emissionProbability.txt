@@ -1,0 +1,4 @@
+#//Given Going_for_a_walk, the probability to Outside Walking Nonuniform Standing Sitting 
+#//Given Going_to_marketplace, the probability to Outside Walking Nonuniform Standing Sitting
+0.4 0.4 0.1 0.1 0
+0.4 0.5 0.1 0 0

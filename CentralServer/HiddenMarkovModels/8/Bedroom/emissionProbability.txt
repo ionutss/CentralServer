@@ -1,0 +1,4 @@
+#//Given Sleeping, the probability to BedOn Bedroom Walking Nonuniform Standing Sitting 
+#//Given WakingUp, the probability to BedOn Bedroom Walking Nonuniform Standing Sitting 
+0.5 0.5 0 0 0 0
+0 0.4 0.1 0.3 0.2 0

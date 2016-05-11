@@ -1,0 +1,2 @@
+#Here we should enter with the index of the observed states we wish to calculated the Viterbi Path and Probability
+0 0 0 1 3 3 3 4 4 2 2 3

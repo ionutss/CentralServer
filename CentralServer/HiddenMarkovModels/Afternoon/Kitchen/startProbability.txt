@@ -1,0 +1,2 @@
+#Making_breakfast Eating_breakfast Making_coffee Drinking_coffee
+0.9 0 0.1 0
