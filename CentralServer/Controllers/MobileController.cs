@@ -27,11 +27,11 @@ namespace CentralServer.Controllers
 
             System.Diagnostics.Debug.WriteLine("MPOST: " + result.Name);
 
-            if (activity.BoardFact != "BedOn")
-            {
+            //if (activity.BoardFact != "BedOn")
+            //{
                 activity.AccFact = result.Name;
 
-            }
+           // }
 
            
         }

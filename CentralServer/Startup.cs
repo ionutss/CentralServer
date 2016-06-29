@@ -16,7 +16,7 @@ namespace CentralServer
         {
             ConfigureAuth(app);
 
-           
+            Microsoft.ApplicationInsights.Extensibility.TelemetryConfiguration.Active.DisableTelemetry = true;
 
             //FileLoader FL = new FileLoader();
             //string[] problemFileS = FL.fileLoaderSingleLineString("problem.txt");
